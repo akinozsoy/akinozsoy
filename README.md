@@ -3,21 +3,19 @@ Hi, i am a self-disciplined, passionate Computer Programer in İstanbul/Turkey. 
 
 
 #
-[![GitHub followers](https://img.shields.io/github/followers/zafercaliskan?style=social)](https://github.com/zafercaliskan?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/zafercaliskan?style=social)](https://github.com/akinozsoy?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/zafercaliskan?style=social)
-![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=Profile%20views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fzafercaliskan.zafercaliskan%2Freadme)
+![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=Profile%20views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fzafercaliskan.akinozsoy%2Freadme)
 
 ## Contact me
 <p>
-  <a href="mailto:4zafercaliskan@gmail.com"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
-  <a href="mailto:zafercaliskan@outlook.com.tr"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" /></a>
-  <a href="https://linkedin.com/in/zafercaliskan/"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-  <a href="https://www.instagram.com/zafercaliskan17/"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-  <a href="https://www.twitter.com/1zafercaliskan/"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-  <a href="https://www.facebook.com/zafercaliskan17/"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-  <a href="https://t.me/zafercaliskan"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
-  <a href="https://discordapp.com/users/424246409928245249"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a>
-  <a href="https://stackoverflow.com/users/12888105/zafer-%c3%87al%c4%b1%c5%9fkan"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a>
+  <a href="mailto:akinozsoy@dizaynetiket.com"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+  <a href="mailto:akn.ozsoy123@hotmail.com"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" /></a>
+  <a href="https://www.linkedin.com/in/akinozsoy/"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+  <a href="https://www.instagram.com/akinozzsoy/"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+  <a href="https://www.twitter.com/akinnozsoy/"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+  <a href="https://www.facebook.com/aknozsy57/"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+  <a href="https://t.me/akinozsoy"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
 </p>
 
 <br />
@@ -39,14 +37,14 @@ Hi, i am a self-disciplined, passionate Computer Programer in İstanbul/Turkey. 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" />
+ 
+  <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" />-->
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zafercaliskan" alt="zafercaliskan" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akinozsoy" alt="akinozsoy" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zafercaliskan&show_icons=true&locale=en&layout=compact" alt="zafercaliskan" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akinozsoy&show_icons=true&locale=en&layout=compact" alt="akinozsoy" />
 </p>
